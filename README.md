@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://img.shields.io/badge/Full%20Stack%20Developer-30363D?style=for-the-badge&logo=github&logoColor=white" />
+
 # Hi, I'm Shira 👋  
 Full Stack Developer experienced in building Web systems with clean, efficient, and scalable architecture.
 
@@ -23,45 +25,45 @@ Full Stack Developer experienced in building Web systems with clean, efficient, 
 
 ## ⚙️ Professional Experience  
 **ExtraTech | 2025**  
-- Developed new modules and maintained existing systems using C#, .NET, Entity Framework, and SQL Server.  
-- Implemented secure authentication with JWT and Redis-based authorization management.  
-- Worked with GitHub using multi-branch workflows, code reviews, and team-based development.  
-- Wrote unit and integration tests for system-critical processes.
+- Developed new modules and maintained existing systems using C#, .NET, EF, and SQL Server.  
+- Implemented secure authentication with JWT and Redis-based authorization.  
+- Worked with GitHub in a structured multi-branch workflow.  
+- Wrote unit and integration tests for core processes.
 
 ---
 
 ## 📌 Selected Projects
 
 ### ✅ Interactive Survey System  
-- Real-time data collection, filtering, and dynamic analytics.  
+- Real-time analytics and dynamic data collection.  
 - Built with React and .NET Core using SQL Server.  
 - Integrated external APIs and implemented JWT authentication.  
-- Added foundational text-analysis features using AI tools.
+- Added basic AI-driven text analysis.
 
 ### ✅ StepTech – Learning Platform  
-- Tutorials, exercises, and a Q&A forum for programming students.  
-- Developed with HTML, CSS, JavaScript, and Node.js.  
-- Implemented user authentication, content management, and clean UI/UX.
+- Tutorials, exercises, and Q&A forum for programming learners.  
+- Built using HTML, CSS, JavaScript, and Node.js.  
+- User registration, content management, and clean UI.
 
 ---
 
 ## 🎓 Education  
 
 ### **Experis Academy – Full Stack & Backend Bootcamp (2025)**  
-Intensive hands-on training covering modern development tools and workflows:  
-- Advanced JavaScript  
-- TypeScript  
-- React.js  
-- Node.js  
+
+![Experis](https://img.shields.io/badge/Experis%20Academy-Full%20Stack%20Developer-orange?style=flat&logo=azuredevops&logoColor=white)
+
+Hands-on training including:  
+- Advanced JavaScript, TypeScript  
+- React.js, Node.js  
 - C# and .NET Core  
 - ASP.NET Core & MVC  
 - DevOps Essentials  
 - AI Tools & LLM Integration  
-- Capstone Full Stack project (production-style)
+- Production-scale capstone project
 
 ### **Software Engineering Diploma (2023–2025)**  
-Including Ultra Code track:  
-Algorithms, Graphs, Data Structures, OS, Mathematics.
+Ultra Code track: Algorithms, Data Structures, OS, Mathematics.
 
 ---
 
